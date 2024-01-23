@@ -1,0 +1,4 @@
+name: SMPApi
+version: '${project.version}'
+main: plugins.nate.smpapi.SMPApi
+api-version: '1.20'
